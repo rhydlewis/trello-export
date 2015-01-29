@@ -1,0 +1,26 @@
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+status.yaml
+trello-settings.yaml
+users.yaml
+jira.yaml
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+.idea
+.DS_Store
+
